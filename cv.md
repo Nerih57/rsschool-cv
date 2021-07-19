@@ -1,14 +1,14 @@
-#Vladimir Karnaev
+# Vladimir Karnaev
 ***
-###nerih57@gmail.com
+### nerih57@gmail.com
 ***
-#About me
+# About me
 Learn js. For work as a tester, which I have been for more than 7 years in various companies and various projects, this will be a good plus.
 ***
-#Skills
+# Skills
 Python, Git
 ***
-#My code
+# My code
 ```
 const multiplyNumbersFromRange = (start, finish) => {
   let i = start;
@@ -23,12 +23,12 @@ const multiplyNumbersFromRange = (start, finish) => {
 };
 ```
 ***
-#Work experience
+# Work experience
 Manual and automated testing, projects from ordinary sites to large investment projects
 ***
-#Education
+# Education
 Automation Engineer processes and production.
 Courses of python и selenium. 
 ***
-#English
+# English
 Level B1. There was an experience of correspondence on an American project.
