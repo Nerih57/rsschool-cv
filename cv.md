@@ -30,7 +30,7 @@ const multiplyNumbersFromRange = (start, finish) => {
 # Work experience
 Manual and automated testing, projects from ordinary sites to large investment projects.
 
-***
+---
 
 # Education
 Automation Engineer processes and production.
