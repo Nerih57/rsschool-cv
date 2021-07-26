@@ -18,7 +18,7 @@ body {
 	flex-direction: column;
 }
 
-.up {
+header {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -49,7 +49,7 @@ body {
 	height: auto;
 }
 
-.down {
+main {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
