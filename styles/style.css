@@ -1,0 +1,129 @@
+@import url("../fonts/JosefinSans/stylesheet.css");
+
+body {
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+}
+
+header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 20px;
+	color: #ffffff;
+	background-color: #3a3a3c;
+
+}
+
+.up-right {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	padding: 20px;
+
+}
+
+.my-foto {
+	display: flex;
+	justify-content: center;
+	/*flex-basis: 30%;*/
+	padding: 20px;
+	
+}
+
+.image {
+	width: 100%;
+	height: auto;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 20px;
+	background-color: #FAFAFA
+}
+
+.main-first {
+	display: flex;
+	flex-direction: column;
+	flex-basis: 20%;
+	padding: 20px;
+}
+
+.my-foto-image {
+	max-width: 250px;
+	height: auto;
+	border-radius: 250px;
+}
+
+.main-second {
+	display: flex;
+	flex-direction: column;
+	flex-basis: 80%;
+	padding: 20px;
+}
+
+
+.main-second-education {
+	display: flex;
+	flex-direction: column;
+}
+
+.education-container {
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 10px;
+}
+
+.school-image {
+	width: 100px;
+	height: auto;
+}
+
+footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	background-color:  #3a3a3c;
+	color: #fff;
+	padding: 10px;
+}
+
+.title {
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover {
+	color: #000;
+}
+
+.my-code-link {
+	color: #3a3a3c;
+}
+
+@media (max-width: 576px) {
+	.up, .down {
+		flex-direction: column;
+	}
+    /*div {width: 1100px;}*/
+   }
